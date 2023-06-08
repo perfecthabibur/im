@@ -724,7 +724,11 @@ ul li a.active::after{
     opacity: 0;
   }
 }
+#fb-root{
 
+  background: red;
+
+}
 /*==backtopbox area end==*/
 /*==responsive area start*/
 @media screen and (max-width: 767px){
